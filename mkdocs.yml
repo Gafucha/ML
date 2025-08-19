@@ -1,7 +1,7 @@
 site_name: Template de Entrega
 site_author: Sandmann, H.
 site_url: https://hsandmann.github.io/documentation.template
-repo_url: https://github.com/hsandmann/documentation.template
+repo_url: https://github.com/Gafucha/ML
 repo_name: github/documentation.template
 
 theme:
@@ -110,7 +110,7 @@ plugins:
       enable_creation_date: true
   - git-authors
   - git-committers:
-      repository: hsandmann/hsandmann.github.com
+      repository: Gafucha/ML
       branch: main
   - search
   - badges

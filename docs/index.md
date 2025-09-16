@@ -6,14 +6,9 @@
     2025.1
 
 
-## Grupo/Kit X
+## Grupo - Integrador 11
 
-1. João da Silva
-1. Pedro de Souza
-1. Maria Oliveira
-1. Grupo K
-    - João da Silva
-    - Pedro de Souza
+1. Gabriel Fuzita Chaves
 
 
 
@@ -24,11 +19,16 @@
 
 ## Entregas
 
-- [x] Roteiro 1 - Data 23/02/2025
-- [ ] Roteiro 2
-- [ ] Roteiro 3
-- [ ] Roteiro 4
-- [ ] Projeto
+- [ ] Exercício 1 - Árvore de Decisão (29/08)
+- [ ] Exercício 2 - KNN (16/09)
+- [ ] Exercício 3 - K-Mean (19/09)
+- [ ] Exercício 4 - Métricas de Avaliação (19/09)
+- [ ] Projeto I (30/09)
+- [ ] Exercício 5 - Random Forest (28/10)
+- [ ] Exercício 6 - Support Vector Machine (07/11)
+- [ ] Exercício 7 - Page Rank (18/11)
+- [ ] Exercício 8 - PySpark (28/11)
+- [ ] Projeto II (05/12)
 
 ## Diagramas
 

@@ -1,6 +1,6 @@
-site_name: Template de Entrega
-site_author: Sandmann, H.
-site_url: https://hsandmann.github.io/documentation.template
+site_name: Repositório de Machine Learning
+site_author: Chaves, G.
+site_url: https://Gafucha.github.io/documentation.template
 repo_url: https://github.com/Gafucha/ML
 repo_name: github/documentation.template
 
@@ -134,9 +134,21 @@ extra_javascript:
 nav:
   - Home: index.md
   - This documentation: ./thisdocumentation/main.md
-  - Roteiros:
-    - Roteiro 1: ./roteiro1/main.md
-    - Roteiro 2: ./roteiro2/main.md
-    - Roteiro 3: ./roteiro3/main.md
-    - Roteiro 4: ./roteiro4/main.md
-  - Projeto: ./projeto/main.md
+  - Atividades:
+    - Exercícios:
+      - Exercício 1: ./ex1/main.md
+      - Exercício 2: ./ex2/main.md
+      - Exercício 3: ./ex3/main.md
+      - Exercício 4: ./ex4/main.md
+      - Exercício 5: ./ex5/main.md
+      - Exercício 6: ./ex6/main.md
+      - Exercício 7: ./ex7/main.md
+      - Exercício 8: ./ex8/main.md
+    - Projetos:
+      - Projeto: ./projeto1/main.md
+      - Projeto: ./projeto2/main.md
+    - Roteiros:
+      - Roteiro 1: ./roteiro1/main.md
+      - Roteiro 2: ./roteiro2/main.md
+      - Roteiro 3: ./roteiro3/main.md
+      - Roteiro 4: ./roteiro4/main.md

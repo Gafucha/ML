@@ -136,17 +136,17 @@ nav:
   - This documentation: ./thisdocumentation/main.md
   - Atividades:
     - Exercícios:
-      - Exercício 1: ./ex1/main.md
-      - Exercício 2: ./ex2/main.md
-      - Exercício 3: ./ex3/main.md
-      - Exercício 4: ./ex4/main.md
-      - Exercício 5: ./ex5/main.md
-      - Exercício 6: ./ex6/main.md
-      - Exercício 7: ./ex7/main.md
-      - Exercício 8: ./ex8/main.md
+      - Ex1 - Árvore de Decisão: ./ex1/main.md
+      - Ex2 - KNN: ./ex2/main.md
+      - Ex3 - K-Mean: ./ex3/main.md
+      - Ex4 - Métricas de Avaliação: ./ex4/main.md
+      - Ex5 - Random Forest: ./ex5/main.md
+      - Ex6 - Support Vector Machine: ./ex6/main.md
+      - Ex7 - Page Rank: ./ex7/main.md
+      - Ex8 - PySpark: ./ex8/main.md
     - Projetos:
-      - Projeto: ./projeto1/main.md
-      - Projeto: ./projeto2/main.md
+      - Projeto I: ./projeto1/main.md
+      - Projeto II: ./projeto2/main.md
     - Roteiros:
       - Roteiro 1: ./roteiro1/main.md
       - Roteiro 2: ./roteiro2/main.md
